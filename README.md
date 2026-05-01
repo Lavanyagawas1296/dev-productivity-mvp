@@ -101,3 +101,8 @@ dev-productivity/
 - Support authentication and role-based access
 - Add filters by team and metric health status
 - Expand recommendations with richer rule-based or AI-assisted insights
+
+## Submission Links
+
+- **Miro User Journey:** https://miro.com/app/board/uXjVHaU9kNE=/?share_link_id=322733936363
+- **Demo Video:** https://drive.google.com/file/d/1vddej6Mr8BXvhcFKexjOZJWOTTfE2rMW/view?usp=sharing
